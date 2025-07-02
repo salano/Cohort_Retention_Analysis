@@ -3,6 +3,8 @@ The dataset is derived from the AdventureWorks database in MSSQL 2020.
 
 This code stores the customers dataset used in this exercise in the 'Demo.cust_orders' table.
 
+A stored procedure for cohort analysis between two dates can be found here: [Visit GitHub](https://github.com/salano/SQL/blob/main/T-SQL/sp_customer_cohort.txt)
+
 code
 
 ```
